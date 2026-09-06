@@ -18,10 +18,9 @@
   color: #ffffff;
   border-radius: 4px;
   display: block;
-  min-width: 169px;
-  height: 56px;
   border: none;
   margin: 0 auto;
+  padding: 16px 32px;
 }
 .hero-button:hover,
 .hero-button:focus {
